@@ -1,6 +1,6 @@
 # Kerala Dam Water Levels Dataset
 
-This repository contains historical water level data for Kerala dams, collected from the KSEB (Kerala State Electricity Board) website.
+This repository contains historical water level data for Kerala dams, collecting from the KSEB (Kerala State Electricity Board) website.
 
 ## Data Structure
 
